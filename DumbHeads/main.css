@@ -1,0 +1,35 @@
+*{
+    text-align: left;
+   
+}
+div.toggler .subject	
+{ 
+    font-weight:bold; 
+}
+div.read					
+{ 
+    color:#666; 
+}
+div.toggler .from, div.toggler .date { 
+    font-style:italic; 
+    font-size:15px; 
+}
+div.body					
+{ 
+    padding:10px 10px; 
+}
+
+.inbox{
+    background-color: white;
+    padding: 10px;
+    box-shadow: 10px 10px 5px 1px rgba(0,0,0,0.16);
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.message{
+    color: black;
+    background-color: #cccccc;
+    border-radius: 10px;
+    
+}
